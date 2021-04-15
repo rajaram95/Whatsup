@@ -7,7 +7,10 @@ System.out.println("TestA=====");
 		}
 private void testB() {
 System.out.println("TestB=====");
+System.out.println("TestC====");
 }		
+
+
 	}
 
 
